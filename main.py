@@ -15,8 +15,8 @@ _insert_mode = False
 _insert_mode_temp = False
 
 _increase_step = 2
-_gravity_step = 10
-_max_value = 200
+_gravity_step = 100
+_max_value = 500
 _min_value = 0
 
 move_step = 1
@@ -34,7 +34,7 @@ Key = {
     'Left': 'h',
     'Right': 'l',
     'LeftMouse': 'u',
-    'RightMouse': 'y',
+    'RightMouse': 'i',
     'MiddleMouse': ';',
     'ScrollUp': 't',
     'ScrollDown': 'g',
